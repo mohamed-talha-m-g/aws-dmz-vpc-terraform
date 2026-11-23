@@ -41,7 +41,7 @@ screenshots/             console views and test evidence
 ## Deploy
 
 ```bash
-git clone https://github.com/<your-username>/aws-dmz-vpc-terraform.git
+git clone https://github.com/mohamed-talha-m-g/aws-dmz-vpc-terraform.git
 cd aws-dmz-vpc-terraform
 cp terraform.tfvars.example terraform.tfvars
 export TF_VAR_db_password='<strong password, no / @ " or spaces>'
